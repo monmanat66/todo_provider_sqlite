@@ -1,5 +1,11 @@
 # To-Do (Provider + SQLite) — Enhanced
 
+<p align="center">
+  <img src="app1.png" width="250"/>
+  <img src="app2.png" width="250"/>
+  <img src="app3.png" width="250"/>
+</p>
+
 Features beyond the base example:
 - ✅ CRUD with Provider + SQLite (offline)
 - 🔍 Search by title or tag
