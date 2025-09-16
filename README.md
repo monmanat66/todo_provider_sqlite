@@ -3,7 +3,7 @@
 <p align="center">
   <img src="app1.png" width="250"/>
   <img src="app2.png" width="250"/>
-  <img src="app3.png" width="250"/>
+  <img src="app4.png" width="250"/>
 </p>
 
 Features beyond the base example:
